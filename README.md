@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on switching to a [Data Science](https://github.com/DFrankWu/data-job-compensation-analysis) career
+🌱 I’m currently learning data structures and algorithms to @ [Codecademy](https://www.codecademy.com)
+👯 I’m looking to collaborate on Visualization and ML projects on [Kaggle](https://www.kaggle.com/xc1011)
+🛩 I love motorsports and aviation, race and fly with me on [iRacing](https://www.iracing.com) and [DCS WORLD](www.digitalcombatsimulator.com)
+🏆 I am the creator and producer and DCS WORLD's [Rising Squall](https://www.rising-squall.com/) campaign, founder of INVERTED Ltd.
+📫 How to reach me: [dwu@inverted.team](dwu@inverted.team), WeChat: 34657070wdh
+
 <!--
 **DFrankWu/DFrankWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
